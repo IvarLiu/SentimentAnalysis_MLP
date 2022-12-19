@@ -1,1 +1,3 @@
-将aclImdb_v1.tar.gz解压到aclImdb
+- Dataset: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+- Extract aclImdb_v1.tar.gz to ./aclImdb
